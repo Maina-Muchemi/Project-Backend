@@ -1,7 +1,7 @@
 const allowedOrigins = [
-    'https://www.dtdobieautomobiles.com',
-    'https://dtdobie.com',
-    'http://localhost:3000'
+    
+    'https://project-frontend-1g7c.onrender.com/',
+    
 ]
 
 module.exports = allowedOrigins
